@@ -1,0 +1,11 @@
+In scientific reports, p-value is widely used as the evidence for results. While having a significant p-value from research is great, the article “Science Isn’t Broken” (Aschwanden, 2015) suggests that getting an accurate result require many efforts and experiments rather than a single p-value.
+
+Within the article, there is an interactive figure called “Hack your way to scientific glory”. The task is to demonstrate that there is a relationship between the U.S. economy and Republicans or Democrats by getting a p-value less than 0.05. In my first trial, I looked at the independents variables in section 2 carefully and picked the ones that I thought would contribute to the U.S. economy. However, the result of my first trial was disappointing, and I only received a p-value of 0.81. After that, I did a few more trials, and I chose the factors from section 2 thoughtfully, but the resulting p-values were always greater than 0.05. At the end, I became impatient and started to randomly picked variables until the p-value was less than 0.05.
+
+By playing with the interactive figure, I began to understand why there is P-hacking. A significant p-value is attractive because it allows me to prove what I want. However, a small p-value does not mean my result is true because there could be other combinations of variables that also lead to significant results, and this is what the article “Science Isn’t Broken”(Aschwanden, 2015) wants to inform the readers through the interactive figure. As shown by another example from the article, teams of experts find different conclusions regarding whatever dark-skinned players receive more red cards by referees, even though they all receive the same sample data. 20 research teams had significant results, but their conclusions vary.
+
+Therefore, it is not enough to conclude from a single significant result. Researchers need to let go of the bias of searching for extreme results, and it is crucial to have an open mind and conduct more experiments and studies. 
+
+
+References:
+Aschwanden, C. (2015). Science Isn’t Broken: It’s just a hell of a lot harder than we give it credit for. Retrieved from https://fivethirtyeight.com/features/science-isnt-broken 
