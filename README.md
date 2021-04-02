@@ -1,3 +1,5 @@
 # STA303-Professional-Development-Task
 
-## subtitle
+## Weekly Writing
+
+[Week1](Weekly-Writing/Week1.md)
