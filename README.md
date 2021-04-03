@@ -10,23 +10,23 @@ In the [data exploration](Data-Exploration) project, I analyzed COVID data of th
 
 ## Weekly Writing
 
-[Week1](Weekly-Writing/Week1.md): 
+[Week1](Weekly-Writing/Week1.md): Some of my advices for appropriate and inappropriate peer reviews.
 
-[Week2](Weekly-Writing/Week2.md): 
+[Week2](Weekly-Writing/Week2.md): What is P-hacking and whether or not we should use P-hacking in a study.
 
-[Week3](Weekly-Writing/Week3.md): 
+[Week3](Weekly-Writing/Week3.md): My experience of drawing conclusion with P-hacking.
 
-[Week4](Weekly-Writing/Week4.md): 
+[Week4](Weekly-Writing/Week4.md): How I explain Maximum Likehood Estimation in a causal way.
 
-[Week7](Weekly-Writing/Week7.md): 
+[Week7](Weekly-Writing/Week7.md): Three skills that I acquire for future career in statistics.
 
-[Week8](Weekly-Writing/Week8.md): 
+[Week8](Weekly-Writing/Week8.md): Writing an abstract for a study using Poisson regression.
 
-[Week9](Weekly-Writing/Week9.md): 
+[Week9](Weekly-Writing/Week9.md): Writing an exective summary for a study using Poisson regression.
 
-[Week10](Weekly-Writing/Week10.Rmd): 
+[Week10](Weekly-Writing/Week10.Rmd): Writing method for a study using Multi-level Model.
 
-[Week11](Weekly-Writing/Week11.md): 
+[Week11](Weekly-Writing/Week11.md): Writing a model discussion and summary.
 
 P.S. I did not write one for week5, and week6 was the reading week.
 
