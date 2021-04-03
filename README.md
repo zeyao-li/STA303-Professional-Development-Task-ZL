@@ -1,6 +1,10 @@
 # STA303-Professional-Development-Task
 
-## Weekly Writing
+## Projects
+
+###### Data Exploration
+
+### Weekly Writing
 
 [Week1](Weekly-Writing/Week1.md)
 
@@ -19,3 +23,6 @@
 [Week10](Weekly-Writing/Week10.Rmd)
 
 [Week11](Weekly-Writing/Week11.md)
+
+P.S. I did not write one for week5, and week6 was the reading week.
+
