@@ -1,8 +1,8 @@
-# STA303-Professional-Development-Task
+# STA303-Professional-Development-Task-ZL
 
 ## Introduction
 
-Hi. This res
+Hi, my name is Zeyao Li. The purpose of this repository is to present my journey in STA303. Some of my works that were done in STA303 are upload to this repository. These works are divided into two main categories: data exploration and weekly writings. For each category of work, you could view the codes/writings that I had worked through in STA303. In this Readme file, I also provide some backgrounds and personal thoughts of the works I had done. This repository would be continuely updated to include more projects throughout the term. Hope you enjoy exploring this repository. :smiley:
 
 ## Data Exploration
 
