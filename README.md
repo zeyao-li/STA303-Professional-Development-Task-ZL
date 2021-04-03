@@ -4,7 +4,7 @@
 
 ###### Data Exploration
 
-### Weekly Writing
+###### Weekly Writing
 
 [Week1](Weekly-Writing/Week1.md)
 
