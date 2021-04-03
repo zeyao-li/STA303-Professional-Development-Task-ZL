@@ -4,11 +4,11 @@
 
 Hi, my name is Zeyao Li. The purpose of this repository is to present my journey in STA303. Some of my works from STA303 are upload to this repository. These works are divided into two main categories: data exploration and weekly writings. For each category, you could view the codes/writings that I had worked through in STA303. In this Readme file, I also provide some backgrounds and personal thoughts of my works. This repository would be continuely updated to include more projects throughout the term. Hope you enjoy exploring this repository. :smiley:
 
-## [Data Exploration](Data-Exploration)
+## Data Exploration
 
-In the data exploration project, I analyzed COVID data of the City of Toronto. Through different tasks in this project, I learnt different ways of data manipulation, such as dividing sample data into different categories and combining data set. I also learnt ways to make figures organized and clear, especially for the figures "Cases by Day" and "Cases by Outbreak Type and Week". Overall, this is a really interesting project. 
+In the [data exploration](Data-Exploration) project, I analyzed COVID data of the City of Toronto. Through different tasks in this project, I learnt different ways of data manipulation, such as dividing sample data into different categories and combining data set. I also learnt ways to make figures organized and clear, especially for the figures "Cases by Day" and "Cases by Outbreak Type and Week". Overall, this is a really interesting project. 
 
-## [Weekly Writing](Weekly-Writing)
+## Weekly Writing
 
 [Week1](Weekly-Writing/Week1.md): 
 
